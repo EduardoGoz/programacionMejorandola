@@ -1,4 +1,4 @@
-programacionMejorandola
+canvasMejorandola
 =======================
 
-Tareas de la plataforma de Mejorandol.a durante el curso de programación básica
+Tarea de acerca de canvas del curso de programación básica de Mejorando.la
